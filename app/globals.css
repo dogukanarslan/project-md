@@ -1,7 +1,12 @@
+:root {
+  --primary-color: steelblue;
+}
+
 html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
+  font-family: var(--font-geist-sans);
 }
 
 * {
@@ -13,4 +18,17 @@ body {
 a {
   color: inherit;
   text-decoration: none;
+}
+
+header {
+  background-color: var(--primary-color);
+  margin-bottom: 40px;
+  padding: 5px;
+  color: white;
+}
+
+.container {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 0 10px;
 }
