@@ -22,13 +22,32 @@ a {
 
 header {
   background-color: var(--primary-color);
-  margin-bottom: 40px;
   padding: 5px;
-  color: white;
+  color: #fff;
+}
+
+.btn {
+  display: inline-block;
+  background: var(--primary-color);
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
 }
 
 .container {
   max-width: 768px;
   margin: 0 auto;
-  padding: 0 10px;
+  padding: 10px;
+}
+
+.card {
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card__date {
+  background: lightgray;
 }
