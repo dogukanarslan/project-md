@@ -26,14 +26,7 @@ export default function Home() {
   return (
     <div className={styles.page}>
       {projects.map((project) => (
-        <Project
-          key={project.frontmatter.title}
-          slug={project.slug}
-          title={project.frontmatter.title}
-          date={project.frontmatter.posted_at}
-          description={project.frontmatter.description}
-          imageUrl={project.frontmatter.cover_image}
-        />
+        <Project key={project.frontmatter.title} project={project} />
       ))}
     </div>
   )
