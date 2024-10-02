@@ -28,6 +28,7 @@ export default function Home() {
       {projects.map((project) => (
         <Project
           key={project.frontmatter.title}
+          slug={project.slug}
           title={project.frontmatter.title}
           date={project.frontmatter.posted_at}
           description={project.frontmatter.description}
