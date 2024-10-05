@@ -11,9 +11,9 @@ const Project = (props) => {
   return (
     <div className="card">
       <img src={cover_image} alt="" />
-      <div className="project-date">Posted on {posted_at}</div>
-      <h3>{title}</h3>
-      <p>{description}</p>
+      <div className="card__subtitle">Posted on {posted_at}</div>
+      <h3 className="card__title">{title}</h3>
+      <p className="card__text">{description}</p>
       <Link href={`/${slug}`} className="btn">
         Read More
       </Link>

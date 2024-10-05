@@ -31,10 +31,6 @@ img {
   border-radius: 5px;
 }
 
-p {
-  margin: 15px 0;
-}
-
 .btn {
   display: inline-block;
   background: var(--primary-color);
@@ -57,11 +53,17 @@ p {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
-.card__date {
-  background: lightgray;
-  margin-bottom: 20px;
+.card__subtitle {
+  color: gray;
+  font-size: 14px;
+  margin-bottom: 8px;
 }
 
 .card__title {
-  margin: 10px 0;
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+
+.card__text {
+  margin-bottom: 8px;
 }
