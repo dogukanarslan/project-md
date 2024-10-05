@@ -19,7 +19,7 @@ const ProjectDetail = (props) => {
 
       <div className="card__date">{project.frontmatter.posted_at}</div>
 
-      <img src={project.frontmatter.cover_image} />
+      <img src={project.frontmatter.cover_image} alt="" />
 
       <div dangerouslySetInnerHTML={{ __html: marked(project.content) }} />
     </div>

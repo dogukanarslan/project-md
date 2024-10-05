@@ -10,7 +10,7 @@ const Project = (props) => {
 
   return (
     <div className="card">
-      <img src={cover_image} />
+      <img src={cover_image} alt="" />
       <div className="project-date">Posted on {posted_at}</div>
       <h3>{title}</h3>
       <p>{description}</p>
