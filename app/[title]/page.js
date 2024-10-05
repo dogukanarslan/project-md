@@ -3,6 +3,12 @@ import fs from "fs"
 import matter from "gray-matter"
 import { marked } from "marked"
 
+export const generateStaticParams = () => {
+  const files = fs.readdirSync("projects")
+
+  return files.map((title) => ({ title: title.replaceAll(".md", "") }))
+}
+
 const getProject = (slug) => {
   const project = fs.readFileSync("projects/" + slug + ".md", "utf-8")
   const { data: frontmatter, content } = matter(project)
@@ -15,13 +21,13 @@ const ProjectDetail = (props) => {
 
   return (
     <div className="card">
-      <h1 className="card__title">{project.frontmatter.title}</h1>
+      <h3 className="card__title">{project.frontmatter.title}</h3>
 
-      <div className="card__date">{project.frontmatter.posted_at}</div>
+      <div className="card__subtitle">{project.frontmatter.posted_at}</div>
 
       <img src={project.frontmatter.cover_image} alt="" />
 
-      <div dangerouslySetInnerHTML={{ __html: marked(project.content) }} />
+      <div className="card__text" dangerouslySetInnerHTML={{ __html: marked(project.content) }} />
     </div>
   )
 }
