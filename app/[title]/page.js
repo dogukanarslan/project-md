@@ -25,7 +25,7 @@ const ProjectDetail = (props) => {
 
       <div className="card__subtitle">{project.frontmatter.posted_at}</div>
 
-      <img src={project.frontmatter.cover_image} alt="" />
+      <img src={`/project-md/${project.frontmatter.cover_image}`} alt="" />
 
       <div className="card__text" dangerouslySetInnerHTML={{ __html: marked(project.content) }} />
     </div>
