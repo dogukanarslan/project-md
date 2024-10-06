@@ -1,0 +1,54 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[231,["231","static/chunks/231-430f48098ff68cb7.js","931","static/chunks/app/page-4380dcf739d3c525.js"],""]
+2:Ta1c,<h1>Non cruor stabat exstinguor intendens tristis</h1>
+<h2>Nubemque augur Est vidit</h2>
+<p>Lorem markdownum collo <strong>Inoosque</strong>. Talibus ego quid superentur, anni sacerdos.
+Miserande nempe in mittere spectem excutit dominaeque illi cui, amplexas furor.
+Fata quod, coierunt et Priamus recolligis pro servato in ferro Graias dextera
+vires! Dissimilem interea eadem totumque Venus Cytherea herbiferos mutatus,
+flenti plus aliis setius venisses dedit
+<a href="http://www.tantiquid.io/orbem.html">subposuisse</a>.</p>
+<blockquote>
+<p>In humo adest vulnera Thestias et gurgite radiantia, dum meorum ipsi quondam
+coepi. Capellae nisi dicunt; aer dives pandite illam.</p>
+</blockquote>
+<p>Haec super Mycale et desere <strong>caelesti</strong> dissilit totidemque illo; per coniuge
+veluti imagine Priamus infans. Sua <em>quae mens</em> meorum <em>tempore nullos claudit</em>
+et dare usa.</p>
+<p>Neu moverent mentoque luce. Fide quam venti cui tibi inponit erat fecimus umbra
+nec mihi fratres.</p>
+<h2>Qui ingens</h2>
+<p>Clamoribus exeat, o flectitur quoque, indoluit vix locus veniam bis tota
+<strong>capillis videres</strong> maximus essem, veni arces. Captus post, nitar solent et
+arce patrium, ab abesse! Iolen urbe arvis: omni iam stimulatus vulnus rettulit
+resistere <em>igitur</em>? Temptat si pisa repressit fuit crura
+<a href="http://quifuga.com/">magicae</a> pereunt capreisque alta mite Semiramis currus
+quem addidit qui saltu Veneri: per. Et Cyane.</p>
+<ul>
+<li>Piraeaque partim scrobibus quoque</li>
+<li>Studeat quin</li>
+<li>Arduus oris</li>
+<li>Color quia amores potitus</li>
+<li>Saepe turba parari haerebat mittunt ponto Asterien</li>
+<li>Moderere effugiunt hinc iam titulus decor Scyllae</li>
+</ul>
+<p>Excussis victa Learchum zephyri, Ixione utque genitoris disci. Sacra urbes est
+taceam animavit cruorem et, matre ut et locus cumulemus ipse Cinyra Salamis
+Auroram; <strong>omnia</strong>. Tertia recludam. <strong>Mea pes declivis</strong> unam! Plebe ope,
+operisque tanti!</p>
+<ol>
+<li>Manumque marinae Sibyllae lingua species leonem si</li>
+<li>Dixi obscuram quibus in nostra iaculum</li>
+<li>Antiquam rogati solidas</li>
+</ol>
+<p>Piumque ecce quas maduit fuerit, deficiunt et fratres oculorum amantem os
+tollens profecto Phaethon aures adesset metusque. Si fera thalamos; facinus
+Styphelumque haec: pugna et tendi proferri meum totidemque potentia exanimis
+pignus quibus. Resupina corpore vultus silva circum. A fessus, iram milite et
+omnes amores, deum cui conclamat. <em>Anno munere</em>: serpens, <strong>luce nondum</strong> eundo;
+ignotae poplite: cursu!</p>
+4:["title","project-1","d"]
+0:["wt32UkwH4tKY8ZnoX1pxd",[[["",{"children":[["title","project-1","d"],{"children":["__PAGE__?{\"title\":\"project-1\"}",{}]}]},"$undefined","$undefined",true],["",{"children":[["title","project-1","d"],{"children":["__PAGE__",{},[["$L1",["$","div",null,{"className":"card","children":[["$","h3",null,{"className":"card__title","children":"Project 1 Title"}],["$","div",null,{"className":"card__subtitle","children":"June 1, 2024"}],["$","img",null,{"src":"/project-md//images/projects/img1.jpg","alt":""}],["$","div",null,{"className":"card__text","dangerouslySetInnerHTML":{"__html":"$2"}}]]}],null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/project-md/_next/static/css/5b92d492f4830e06.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_edd6f4 __variable_fe4b45","children":[["$","header",null,{"className":"header","children":["$","div",null,{"className":"container","children":["$","$L6",null,{"href":"/","children":["$","h2",null,{"className":"header__logo","children":"Project MD"}]}]}]}],["$","main",null,{"className":"container","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]}]],null],null],["$L7",null]]]]
+7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Project MD"}],["$","link","3",{"rel":"icon","href":"/project-md/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","4",{"name":"next-size-adjust"}]]
+1:null
